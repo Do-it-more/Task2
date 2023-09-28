@@ -9,7 +9,7 @@ body{
     
 }
 .landing{
-    background-image: url('/IMG/new.jpeg');
+    background-image: url('new.jpeg');
     background-size: cover;
     background-position: center;
     height: 100vh;
